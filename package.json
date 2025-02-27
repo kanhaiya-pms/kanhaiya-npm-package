@@ -1,0 +1,25 @@
+{
+  "name": "kanhaiya-npm-package",
+  "version": "1.0.0",
+  "description": "this is test kanhaiya npm package",
+  "keywords": [
+    "kanhaiya",
+    "npm",
+    "package"
+  ],
+  "homepage": "https://github.com/kanhaiya-pms/kanhaiya-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/kanhaiya-pms/kanhaiya-npm-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanhaiya-pms/kanhaiya-npm-package.git"
+  },
+  "license": "Apache-2.0",
+  "author": "kanhaiya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "nmp run test"
+  }
+}
